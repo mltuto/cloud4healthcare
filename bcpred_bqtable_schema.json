@@ -1,0 +1,57 @@
+[
+ {
+   "name": "SampleCodeNumber",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "ClumpThickness",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "UniformityOfCellSize",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "UniformityOfCellShape",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "MarginalAdhesion",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "SingleEpithelialCellSize",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "BareNuclei",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "BlandChromatin",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "NormalNucleoli",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "Mitoses",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   },
+ {
+   "name": "Class",
+   "type": "INTEGER",
+   "mode": "NULLABLE"
+   }
+]
